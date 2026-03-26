@@ -45,3 +45,6 @@ Through this project, I gained hands-on experience in:
 
 
 
+<p align="center">
+⭐ This project was created only for learning and practice purposes.
+</p>
