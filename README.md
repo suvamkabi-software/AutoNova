@@ -1,5 +1,5 @@
 ## 🖥️ Live Preview
-👉[![website](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](https://suvamdev.netlify.app)
+👉[![Website](https://img.shields.io/badge/Website-AutoNova-red?style=for-the-badge&logo=google-chrome&logoColor=white)](https://autodrivehub.netlify.app/)
 
 # 🚗 AutoNova – Modern Car Showcase Website
 
